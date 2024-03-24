@@ -1,0 +1,14 @@
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\bin\Debug\net7.0\wzorceProjektoweZad4.exe
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\bin\Debug\net7.0\wzorceProjektoweZad4.deps.json
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\bin\Debug\net7.0\wzorceProjektoweZad4.runtimeconfig.json
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\bin\Debug\net7.0\wzorceProjektoweZad4.dll
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\bin\Debug\net7.0\wzorceProjektoweZad4.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.AssemblyInfoInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.AssemblyInfo.cs
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.csproj.CoreCompileInputs.cache
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.dll
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\refint\wzorceProjektoweZad4.dll
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.pdb
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\wzorceProjektoweZad4.genruntimeconfig.cache
+C:\Users\zydus\OneDrive\Pulpit\zad4Wzorce\wzorceProjektoweZad4\obj\Debug\net7.0\ref\wzorceProjektoweZad4.dll
